@@ -1,0 +1,16 @@
+.section {
+    display: flex;
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+    background-color: #349bf0;
+    
+}
+
+.section__title {
+    display: flex;
+    justify-content: center;
+    font-style: italic;
+
+}

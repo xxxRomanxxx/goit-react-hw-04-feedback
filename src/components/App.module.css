@@ -1,0 +1,7 @@
+.feedback {
+	display: flex;
+	flex-direction: column;
+	padding: 100px;
+	width: 600px;
+}
+

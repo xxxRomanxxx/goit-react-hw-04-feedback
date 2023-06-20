@@ -1,0 +1,16 @@
+.section {
+    display: flex;
+    width: 217px;
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+    background-color: #e7ef0e;
+}
+
+.text {
+    display: flex;
+    justify-content: center;
+    font-size: 18px;
+    font-weight: 600;
+}
